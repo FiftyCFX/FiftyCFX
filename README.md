@@ -1,2 +1,1 @@
 - 👋 Hi, I’m Peter
-- 📫 How to reach me peter@corebot.app
